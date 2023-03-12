@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bb448157.chunk.css",
-    "main.js": "/static/js/main.b9015e47.chunk.js",
-    "main.js.map": "/static/js/main.b9015e47.chunk.js.map",
+    "main.js": "/static/js/main.fb81ad79.chunk.js",
+    "main.js.map": "/static/js/main.fb81ad79.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a2aab5b1.js",
     "runtime-main.js.map": "/static/js/runtime-main.a2aab5b1.js.map",
     "static/js/2.f1dbbeb9.chunk.js": "/static/js/2.f1dbbeb9.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/index.html",
     "static/css/main.bb448157.chunk.css.map": "/static/css/main.bb448157.chunk.css.map",
     "static/js/2.f1dbbeb9.chunk.js.LICENSE.txt": "/static/js/2.f1dbbeb9.chunk.js.LICENSE.txt",
-    "static/media/switch.b580434e.png": "/static/media/switch.b580434e.png"
+    "static/media/switch-sound.0d19c9a6.mp3": "/static/media/switch-sound.0d19c9a6.mp3",
+    "static/media/switch.5a4fe930.png": "/static/media/switch.5a4fe930.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a2aab5b1.js",
     "static/js/2.f1dbbeb9.chunk.js",
     "static/css/main.bb448157.chunk.css",
-    "static/js/main.b9015e47.chunk.js"
+    "static/js/main.fb81ad79.chunk.js"
   ]
 }
