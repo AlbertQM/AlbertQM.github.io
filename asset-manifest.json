@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb448157.chunk.css",
-    "main.js": "/static/js/main.fb81ad79.chunk.js",
-    "main.js.map": "/static/js/main.fb81ad79.chunk.js.map",
+    "main.css": "/static/css/main.c8959e40.chunk.css",
+    "main.js": "/static/js/main.0c659450.chunk.js",
+    "main.js.map": "/static/js/main.0c659450.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a2aab5b1.js",
     "runtime-main.js.map": "/static/js/runtime-main.a2aab5b1.js.map",
     "static/js/2.f1dbbeb9.chunk.js": "/static/js/2.f1dbbeb9.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.89a6adf7.chunk.js": "/static/js/3.89a6adf7.chunk.js",
     "static/js/3.89a6adf7.chunk.js.map": "/static/js/3.89a6adf7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.bb448157.chunk.css.map": "/static/css/main.bb448157.chunk.css.map",
+    "static/css/main.c8959e40.chunk.css.map": "/static/css/main.c8959e40.chunk.css.map",
     "static/js/2.f1dbbeb9.chunk.js.LICENSE.txt": "/static/js/2.f1dbbeb9.chunk.js.LICENSE.txt",
     "static/media/switch-sound.0d19c9a6.mp3": "/static/media/switch-sound.0d19c9a6.mp3",
     "static/media/switch.5a4fe930.png": "/static/media/switch.5a4fe930.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a2aab5b1.js",
     "static/js/2.f1dbbeb9.chunk.js",
-    "static/css/main.bb448157.chunk.css",
-    "static/js/main.fb81ad79.chunk.js"
+    "static/css/main.c8959e40.chunk.css",
+    "static/js/main.0c659450.chunk.js"
   ]
 }
