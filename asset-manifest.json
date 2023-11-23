@@ -1,24 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8959e40.chunk.css",
-    "main.js": "/static/js/main.bde4f693.chunk.js",
-    "main.js.map": "/static/js/main.bde4f693.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c249f90b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c249f90b.js.map",
-    "static/js/2.779cd8bb.chunk.js": "/static/js/2.779cd8bb.chunk.js",
-    "static/js/2.779cd8bb.chunk.js.map": "/static/js/2.779cd8bb.chunk.js.map",
-    "static/js/3.255d8cff.chunk.js": "/static/js/3.255d8cff.chunk.js",
-    "static/js/3.255d8cff.chunk.js.map": "/static/js/3.255d8cff.chunk.js.map",
+    "main.css": "/static/css/main.315c8d5a.css",
+    "main.js": "/static/js/main.b072d4e8.js",
+    "static/js/787.0518f703.chunk.js": "/static/js/787.0518f703.chunk.js",
+    "static/media/switch.png": "/static/media/switch.5a4fe930ab0b8adfdf08.png",
+    "static/media/switch-sound.mp3": "/static/media/switch-sound.0d19c9a660a1cf5a20e6.mp3",
     "index.html": "/index.html",
-    "static/css/main.c8959e40.chunk.css.map": "/static/css/main.c8959e40.chunk.css.map",
-    "static/js/2.779cd8bb.chunk.js.LICENSE.txt": "/static/js/2.779cd8bb.chunk.js.LICENSE.txt",
-    "static/media/switch-sound.0d19c9a6.mp3": "/static/media/switch-sound.0d19c9a6.mp3",
-    "static/media/switch.5a4fe930.png": "/static/media/switch.5a4fe930.png"
+    "main.315c8d5a.css.map": "/static/css/main.315c8d5a.css.map",
+    "main.b072d4e8.js.map": "/static/js/main.b072d4e8.js.map",
+    "787.0518f703.chunk.js.map": "/static/js/787.0518f703.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c249f90b.js",
-    "static/js/2.779cd8bb.chunk.js",
-    "static/css/main.c8959e40.chunk.css",
-    "static/js/main.bde4f693.chunk.js"
+    "static/css/main.315c8d5a.css",
+    "static/js/main.b072d4e8.js"
   ]
 }
