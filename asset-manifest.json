@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.99eae030.css",
-    "main.js": "/static/js/main.11190047.js",
+    "main.js": "/static/js/main.da2a539a.js",
     "static/js/787.0518f703.chunk.js": "/static/js/787.0518f703.chunk.js",
     "static/media/switch.png": "/static/media/switch.5a4fe930ab0b8adfdf08.png",
     "static/media/switch-sound.mp3": "/static/media/switch-sound.0d19c9a660a1cf5a20e6.mp3",
     "index.html": "/index.html",
     "main.99eae030.css.map": "/static/css/main.99eae030.css.map",
-    "main.11190047.js.map": "/static/js/main.11190047.js.map",
+    "main.da2a539a.js.map": "/static/js/main.da2a539a.js.map",
     "787.0518f703.chunk.js.map": "/static/js/787.0518f703.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99eae030.css",
-    "static/js/main.11190047.js"
+    "static/js/main.da2a539a.js"
   ]
 }
